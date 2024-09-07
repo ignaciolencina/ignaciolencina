@@ -1,16 +1,32 @@
-## Hi there 👋
+# Ignacio Lencina - Full Stack MERN Developer 🚀
 
-<!--
-**ignaciolencina/ignaciolencina** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋
+I'm Ignacio, a beginner Full Stack Developer with a passion for learning and growing in the world of web development. I'm always excited to explore new technologies and improve my skills in building both front-end and back-end solutions. As I continue my journey in programming, I aim to contribute to meaningful projects and collaborate with others in the tech community. Let's connect and create something amazing together!
 
-Here are some ideas to get you started:
+## Skills 💻
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Frontend Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,vite,react,bootstrap" />
+  </a>
+</p>
+
+### Backend Skills
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,express,nodejs,mongo" />
+  </a>
+</p>
+
+### Tools 
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,figma" />
+  </a>
+</p>
+
+
+## Get in Touch 📬
+- **Email**: [nacholencina60@gmail.com](mailto:nacholencina60@gmail.com)
+- **LinkedIn**: [Ignacio Lencina](https://www.linkedin.com/in/ignacio-lencina-ba298a325)
